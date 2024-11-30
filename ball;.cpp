@@ -2,6 +2,7 @@
 #include <cmath>
 using namespace std;
 
+// Throw the ball and find the distance it travelled
 int main()
 {
 
